@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medieval-memory/static/css/main.1b1ee711.css",
+    "main.js": "/medieval-memory/static/js/main.462e4478.js",
+    "index.html": "/medieval-memory/index.html",
+    "main.1b1ee711.css.map": "/medieval-memory/static/css/main.1b1ee711.css.map",
+    "main.462e4478.js.map": "/medieval-memory/static/js/main.462e4478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b1ee711.css",
+    "static/js/main.462e4478.js"
+  ]
+}
